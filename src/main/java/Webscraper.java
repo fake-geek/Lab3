@@ -23,7 +23,6 @@ public class Webscraper {
     }
 
 
-
     public static int count(String word) {
         if (word == null || word.isEmpty()) {
             return 0;
